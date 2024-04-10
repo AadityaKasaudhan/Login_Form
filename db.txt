@@ -1,0 +1,7 @@
+Create a database name  "login"
+collection name "users"
+import the data in json form
+email
+"aditya@gmail.com"
+password
+"admin"
