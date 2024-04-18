@@ -1,5 +1,27 @@
-Login Form with React, Express, Node.js, MongoDB, and Bootstrap This project implements a simple login form using the MERN stack (MongoDB, Express, React, Node.js) along with Bootstrap for styling. It allows users to register with a username and password, which are then stored in a MongoDB database. Users can then log in using their credentials, with the backend verifying their identity.
+# User Authentication Web App
 
-Technologies Used React for the frontend Express and Node.js for the backend MongoDB for the database Bootstrap for styling Features User registration and login functionality Password encryption for security Responsive design using Bootstrap Getting Started To run this project locally, follow these steps:
+This is a simple web application for user authentication, featuring login forms. The frontend is built with React.js, utilizing Bootstrap for styling to provide a responsive and user-friendly interface. The backend is developed with Node.js and Express.js, providing robust server-side logic for user authentication and data management. MongoDB is used as the database to securely store user information.
 
-Clone the repository. Install dependencies using npm install in both the client and server directories. Start the server using npm start in the server directory. Start the client using npm start in the client directory. Access the application in your browser at http://localhost:3000.
+## Features
+
+- User login functionality.
+- Secure storage of user information in MongoDB.
+- Responsive design using Bootstrap classes.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/AadityaKasaudhan/Login_Form.git`
+2. Install dependencies:
+3. Start the frontend: `Open Terminal and cd client && npm install and then npm start`
+4. Start the backend: `Open Terminal and cd server && npm install and then npm start`
+
+## Technologies Used
+
+- React.js
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+
